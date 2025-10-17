@@ -113,3 +113,5 @@ You can download the latest published typings library at any time by simply runn
 
 `npm install --save-dev @hitc/netsuite-types`
 
+
+<!-- Auto-update: 2025-10-17T09:45:03.666612 -->
